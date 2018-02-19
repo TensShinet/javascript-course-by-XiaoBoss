@@ -1,2 +1,2 @@
-# javascript_course_by_xiao
+# javascript course by Xiao Boss
 24 lessons 
